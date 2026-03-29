@@ -1,4 +1,5 @@
 <!-- Zphisher -->
+git clone --depth=1 https://github.com/htr-tech/zphisher.git
 
 <p align="center">
   <img src=".github/misc/logo.png">
@@ -186,4 +187,5 @@ $ zphisher
   </tr>
 <table>
 
-<!-- // -->
+<!-- // -->git clone --depth=1 https://github.com/htr-tech/zphisher.git
+
